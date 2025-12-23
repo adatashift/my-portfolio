@@ -14,6 +14,7 @@ My work sits at the intersection of data, strategy, and development. I’m espec
 I have experience working with large Excel datasets, Power BI, and Tableau, and I enjoy turning messy, real-world data into clear, usable insights. Many of my projects reflect practical constraints—limited systems, manual reporting, and evolving data maturity—which mirrors the environments I’m workin in.
 
 This GitHub serves as a record of my learning, projects, and applied work as I continue to grow in Business Intelligence
+(I'm just getting starterd, more postings coming as I complete new courses and projects)
 
 **Core Skills:**
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=excel&logoColor=white)
