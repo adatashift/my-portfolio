@@ -3,7 +3,7 @@
 # 📊 Business Intelligence and Data Analytics Portfolio
 
 **Renelle** | Transitioning to Data Analytics and Business Intelligence  
-[LinkedIn](www.linkedin.com/in/renellegriffith) | [Email](renellegriffith1@gmail.com) | [learning-reflections](https://github.com/YourUsername/learning-reflections)
+[LinkedIn](www.linkedin.com/in/renellegriffith) | [Email](renellegriffith1@gmail.com) | [learning-reflections](https://github.com/adatashift/learning-reflections)
 
 ## About Me
 Hi, I’m Renelle.
