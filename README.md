@@ -26,7 +26,7 @@ This GitHub serves as a record of my learning, projects, and applied work as I c
 | **[Excel Reporting Improvement]((https://github.com/YourUsername/excel-improvement)** | Advanced Excel skills: pivot tables, formulas, data cleaning, automation, and dashboard building for analytics/reporting. | Microsoft Excel | [![Excel Preview](assets/excel-thumb.png)](https://github.com/YourUsername/excel-improvement) |
 
 ## 📚 Learning & Certifications
-- **[IBM AI Fundamentals](./reflections/ibm-ai-fundamentals.md)**  
+- **[IBM AI Fundamentals](./learning-reflections/ibm-ai-fundamentals.md)**  
    *Ethics, bias, accountability in AI/data work.*
 
 ## 🎯 Career Focus
