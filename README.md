@@ -23,7 +23,7 @@ This GitHub serves as a record of my learning, projects, and applied work as I c
 
 | Project | Description | Tech | Link |
 |---------|-------------|------|------|
-| **[Excel Reporting Improvement]((https://github.com/YourUsername/excel-improvement)** | Advanced Excel skills: pivot tables, formulas, data cleaning, automation, and dashboard building for analytics/reporting. | Microsoft Excel | [Excel Preview](https://github.com/adatashift/excel-improvement) |
+| **[Excel Reporting Improvement]((https://github.com/YourUsername/excel-improvement)** | Advanced Excel skills: pivot tables, formulas, data cleaning, automation, and dashboard building for analytics/reporting. | Microsoft Excel | [Excel Preview](https://github.com/adatashift/excel-reporting-improvement) |
 
 ## 📚 Learning & Certifications
 - **[IBM AI Fundamentals](https://github.com/adatashift/learning-reflections/blob/main/reflections/ibm-ai-fundamentals.md)**  
