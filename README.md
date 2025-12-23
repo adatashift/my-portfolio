@@ -7,7 +7,7 @@
 
 ## About Me
 Hi, I’m Renelle.
-I’m a Business Intelligence & Data Analytics professional with a background in project administration and public-sector programme support, currently transitioning into a data-driven role focused on insight, impact, and decision-making.
+I’m an emerging Business Intelligence & Data Analytics professional with a background in project administration and public-sector programme support, currently transitioning into a data-driven role focused on insight, impact, and decision-making.
 
 My work sits at the intersection of data, strategy, and development. I’m especially interested in how clean, well-structured data can be used to improve programme performance support evidence-based policy and funding decisions, and strengthen accountability in mission-driven organisations.
 
