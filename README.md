@@ -5,8 +5,6 @@
 **Renelle** | Transitioning to Data Analytics and Business Intelligence  
 [LinkedIn](www.linkedin.com/in/renellegriffith) | [Email](renellegriffith1@gmail.com) | [learning-reflections](https://github.com/YourUsername/learning-reflections)
 
-![Hero Banner](assets/hero-banner.png) *(Add a data viz-themed image/banner)*
-
 ## About Me
 Hi, I’m Renelle.
 I’m a Business Intelligence & Data Analytics professional with a background in project administration and public-sector programme support, currently transitioning into a data-driven role focused on insight, impact, and decision-making.
@@ -29,8 +27,7 @@ This GitHub serves as a record of my learning, projects, and applied work as I c
 
 ## 📚 Learning & Certifications
 - **[IBM AI Fundamentals](./reflections/ibm-ai-fundamentals.md)**  
-  ![Badge](./assets/ibm-badge.png)  
-  *Ethics, bias, accountability in AI/data work.*
+   *Ethics, bias, accountability in AI/data work.*
 
 ## 🎯 Career Focus
 - - Business Intelligence Development 
